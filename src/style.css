@@ -1,0 +1,7 @@
+body{
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+body h1{
+  /*text decoration color rainbow*/
+  text-decoration-color: #ff0000;
+}
